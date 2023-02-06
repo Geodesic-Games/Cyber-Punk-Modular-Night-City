@@ -1,0 +1,21 @@
+NightCity Stats:
+
+Meshes
+14 buildings
+14 deffer decals
+9 mesh based decals
+54 props
+
+Textures:
+95 + 4 IES + 4 cubemaps 
+2048x2048, 1024x1024, 512x512, 256x256, 128x128, 32x32
+
+Materials:
+11 Masters
+82 Instances
+13 functions
+
+Collison: Auto
+LODs: Auto
+
+
